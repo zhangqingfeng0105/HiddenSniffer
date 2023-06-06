@@ -3,7 +3,7 @@ We will update the data collected using the HiddenSniffer tool every month. The 
 -----------------------------------------------------------------------------------------------------  
 id:  data index  
 cell_command:  cell_command in the data cell, where constant equals 10, means CREATE CELL  
-p_circ_id:  our honeypot relay displays the circuit ID of the routing node to be detected, such as A --p_circ_id--> honepot relay--n_circ_id-->    
+p_circ_id:  our honeypot relay displays the circuit ID of the routing node to be detected, such as A --p_circ_id--> honepot relay      
 p_chan_addr:  the IP address of hidden node  
 canonical_addr:  the IP address of ShadowRelay in our honeypot relay's cache as queried by the node identifier in CREATE CELL   
 consensus_addr:  the IP address of ShadowRelay in the consensus file.  
